@@ -22,7 +22,7 @@
 <p>
   <a href="https://www.linkedin.com/in/ayan45"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="mailto:ayanbatabyal074@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:batabyalayan1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   &nbsp;
   <a href="https://github.com/Ayan074"><img src="https://img.shields.io/github/followers/Ayan074?style=for-the-badge&color=7c3aed&logo=github&label=Followers" alt="Followers"/></a>
 </p>
