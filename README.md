@@ -1,5 +1,5 @@
 <!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║           AYAN KUMAR BATABYAL — AI & DATA SCIENCE ENGINEER            ║ -->
+<!-- ║           AYAN KUMAR BATABYAL — AI & DATA SCIENCE STUDENT             ║ -->
 <!-- ║         Premium Dark Theme · Midnight × Electric Teal × Violet        ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
@@ -7,12 +7,12 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,20:141852,40:1e3a8a,60:7c3aed,80:06b6d4,100:0a0e27&height=240&section=header&text=Ayan%20Kumar%20Batabyal&fontSize=46&fontColor=e0e7ff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Multi-Agent%20Systems%20Architect&descSize=17&descAlignY=54&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,20:141852,40:1e3a8a,60:7c3aed,80:06b6d4,100:0a0e27&height=240&section=header&text=Ayan%20Kumar%20Batabyal&fontSize=46&fontColor=e0e7ff&animation=fadeIn&fontAlignY=32&desc=Data%20Science%20%26%20AI%20Student%20%C2%B7%20RKMVERI&descSize=17&descAlignY=54&descAlign=50"/>
 
 <!-- ━━━━━━━━━━━━━━━━ DYNAMIC TYPING ━━━━━━━━━━━━━━━━ -->
 
 <a href="https://github.com/Ayan074">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%9A%99%EF%B8%8F+Engineering+Autonomous+AI+Pipelines;%F0%9F%A7%A0+Deep+Learning+%C2%B7+LLM+Orchestration+%C2%B7+Multi-Agent+AI;%F0%9F%93%8A+Transforming+Complex+Data+Into+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8E%93+Data+Science+%26+AI+Student+%40+RKMVERI;%F0%9F%A7%A0+Deep+Learning+%C2%B7+LLM+Exploration+%C2%B7+Multi-Agent+AI;%F0%9F%93%8A+Building+Intelligent+Systems+Through+Projects" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,13 +20,11 @@
 <!-- ━━━━━━━━━━━━━ STATUS BADGES ━━━━━━━━━━━━━ -->
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Ayan074&color=06b6d4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  &nbsp;
   <a href="https://www.linkedin.com/in/ayan45"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
   <a href="mailto:ayanbatabyal074@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   &nbsp;
-  <a href="https://github.com/Ayan074"><img src="https://img.shields.io/github/stars/Ayan074?style=for-the-badge&color=7c3aed&logo=github&label=Total+Stars" alt="Stars"/></a>
+  <a href="https://github.com/Ayan074"><img src="https://img.shields.io/github/followers/Ayan074?style=for-the-badge&color=7c3aed&logo=github&label=Followers" alt="Followers"/></a>
 </p>
 
 </div>
@@ -42,16 +40,16 @@
 ```yaml
 Name:       Ayan Kumar Batabyal
 Location:   Howrah, West Bengal 🇮🇳
-Role:       AI & Data Science Engineer
-Focus:      Multi-Agent Systems | Deep Learning | LLM Engineering
+Education:  Data Science & AI Student @ RKMVERI
+Interests:  Deep Learning | LLMs | Multi-Agent Systems
 ```
 
-I design and build **production-grade AI systems** — from multi-agent orchestration platforms with real-protocol communication to deep reinforcement learning solutions for real-world optimization. My work lives at the intersection of **intelligent automation**, **distributed computing**, and **applied machine learning**.
+I'm a **Data Science & Artificial Intelligence student** at **Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI)**. I love building hands-on projects that apply machine learning, deep learning, and agentic AI concepts to solve practical problems. My coursework and personal projects span **data analysis, deep reinforcement learning, multi-agent orchestration**, and **computer vision**.
 
-- 🧠 &nbsp; Specializing in **LLMs, Agentic AI & Deep Reinforcement Learning**
-- 🔬 &nbsp; Actively researching **A2A Protocol, MCP Tools & Autonomous Pipelines**
-- 🏗️ &nbsp; Building systems where **AI agents collaborate, self-heal & learn**
-- 🎯 &nbsp; Mission: **Bridge the gap between AI research and deployable solutions**
+- 🎓 &nbsp; Pursuing **Data Science & AI** at **RKMVERI**
+- 🧠 &nbsp; Exploring **Deep Learning, LLMs & Agentic AI** through projects
+- 🔬 &nbsp; Learning about **A2A Protocol, MCP Tools & Autonomous Pipelines**
+- 🏗️ &nbsp; Building projects where **AI agents collaborate and learn**
 
 <br clear="both"/>
 
@@ -59,7 +57,7 @@ I design and build **production-grade AI systems** — from multi-agent orchestr
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━ TECH STACK ━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28"/> &nbsp; Technical Proficiency
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28"/> &nbsp; Skills & Tools
 
 <div align="center">
 
@@ -110,15 +108,13 @@ I design and build **production-grade AI systems** — from multi-agent orchestr
 </td>
 <td align="center">
 
-**⚙️ &nbsp; Backend & Infrastructure**
+**⚙️ &nbsp; Tools & Frameworks**
 
 <br/>
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
@@ -133,7 +129,7 @@ I design and build **production-grade AI systems** — from multi-agent orchestr
 
 <!-- ━━━━━━━━━━━━━━━━━━ FEATURED PROJECTS ━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28"/> &nbsp; Flagship Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28"/> &nbsp; Projects
 
 <div align="center">
 
@@ -143,14 +139,14 @@ I design and build **production-grade AI systems** — from multi-agent orchestr
 <tr>
 <td>
 
-### 🤖 &nbsp; [AutoPrepAI v5 — Autonomous Multi-Agent Data Science Pipeline](https://github.com/Ayan074/AutoPrepAI-Autonomous-Multi-Agent-Data-Science-Pipeline-using-A2A-MCP)
+### 🤖 &nbsp; [AutoPrepAI v5 — Multi-Agent Data Science Pipeline](https://github.com/Ayan074/AutoPrepAI-Autonomous-Multi-Agent-Data-Science-Pipeline-using-A2A-MCP)
 
-> A **production-grade autonomous AI platform** where 12 specialized agents collaborate via real **A2A (Agent-to-Agent) Protocol** and **MCP (Model Context Protocol)** — orchestrated by LLMs with self-healing reflection loops.
+> A multi-agent data science pipeline where **12 specialized agents** communicate via **A2A (Agent-to-Agent) Protocol** and use **MCP (Model Context Protocol)** tools — orchestrated by LLMs with self-healing reflection loops.
 
 ```
-Architecture:  Multi-Agent System (12 Agents)  ·  Protocol:  A2A + MCP (Real HTTP/JSON-RPC)
-Orchestration: Gemini/Groq LLM-Driven Loop     ·  Features:  AutoML · EDA · Self-Healing · Reporting
-Stack:         Python · FastAPI · LangChain     ·  Status:    ✅ Production-Ready
+Agents:        12 Specialized Agents          ·  Protocol:  A2A + MCP (HTTP/JSON-RPC)
+Orchestration: Gemini/Groq LLM-Driven Loop    ·  Features:  AutoML · EDA · Preprocessing · Reporting
+Stack:         Python · FastAPI · LangChain
 ```
 
 <p align="center">
@@ -158,7 +154,6 @@ Stack:         Python · FastAPI · LangChain     ·  Status:    ✅ Production-
   <img src="https://img.shields.io/badge/MCP-Tools-06b6d4?style=flat-square"/>
   <img src="https://img.shields.io/badge/Gemini-LLM-8E75B2?style=flat-square"/>
   <img src="https://img.shields.io/badge/12-AI_Agents-1e3a8a?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Self_Healing-Reflection-059669?style=flat-square"/>
 </p>
 
 </td>
@@ -173,9 +168,9 @@ Stack:         Python · FastAPI · LangChain     ·  Status:    ✅ Production-
 <tr>
 <td width="50%">
 
-### 💰 &nbsp; [PriceScope — Distributed AI Price Platform](https://github.com/Ayan074/PriceScope-Distributed-AI-Price-Comparison-Platform)
+### 💰 &nbsp; [PriceScope — Distributed Price Comparison](https://github.com/Ayan074/PriceScope-Distributed-AI-Price-Comparison-Platform)
 
-> **5-source distributed** price comparison with Celery workers, circuit breakers, and intelligent product ranking.
+> **Multi-source distributed** price comparison platform with Celery workers, circuit breakers, and intelligent product ranking.
 
 ```
 Stack:     FastAPI · Celery · Redis
@@ -194,7 +189,7 @@ Pattern:   Microservices + Circuit Breaker
 
 ### 🏢 &nbsp; [Smart HVAC — Deep RL Energy Optimization](https://github.com/Ayan074/An-Intelligent-Energy-Brain-for-Smart-Buildings-Smart-HVAC-Project)
 
-> **Deep Q-Network** agent optimizing indoor comfort & energy efficiency via physics-based digital twin simulation.
+> **Deep Q-Network** agent for optimizing indoor comfort & energy efficiency using a physics-based digital twin simulation.
 
 ```
 Stack:     DQN · Digital Twin · Streamlit
@@ -240,12 +235,12 @@ Method:    Temporal Aggregation
 
 ### 🚢 &nbsp; [Titanic Survival Prediction](https://github.com/Ayan074/Titanic-survival--Prediction)
 
-> Classic ML classification with feature engineering, model comparison, and survival probability analysis.
+> End-to-end ML classification with feature engineering, SMOTE for class imbalance, and SVM achieving **83.24% accuracy**.
 
 ```
 Type:      Classification
-Models:    Ensemble Methods
-Focus:     Feature Engineering
+Models:    SVM (RBF) + Ensemble Methods
+Focus:     Feature Engineering + SMOTE
 ```
 
 <p align="center">
@@ -313,11 +308,11 @@ Focus:     Feature Engineering
 
 | | Area | Details |
 |:---:|:---|:---|
+| 🎓 | **Studying** | Data Science & AI at RKMVERI |
 | 🔭 | **Working On** | Multi-Agent AI Systems with A2A & MCP Protocols |
-| 🌱 | **Learning** | Advanced LLM Engineering & Agentic Frameworks |
-| 👯 | **Collaborate** | Open-Source AI/ML Projects & Research Papers |
-| 🤝 | **Seeking** | Scaling Distributed AI Pipelines in Production |
-| 💬 | **Ask Me** | Python · Deep Learning · LLMs · Multi-Agent Architectures |
+| 🌱 | **Learning** | Advanced Deep Learning, LLM Architectures & Agentic Frameworks |
+| 👯 | **Open To** | Collaborating on Open-Source AI/ML Projects |
+| 💬 | **Ask Me About** | Python · Deep Learning · Data Science · Multi-Agent AI |
 
 </div>
 
@@ -341,10 +336,6 @@ Focus:     Feature Engineering
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-
 </div>
 
 <!-- ━━━━━━━━━━━━━━━━━━ FOOTER ━━━━━━━━━━━━━━━━━━ -->
@@ -352,14 +343,5 @@ Focus:     Feature Engineering
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,20:141852,40:1e3a8a,60:7c3aed,80:06b6d4,100:0a0e27&height=120&section=footer"/>
-
-<br/>
-
-*`"The best way to predict the future is to build it — with AI." 🚀`*
-
-<br/>
-
-![Built with](https://img.shields.io/badge/Built_with-Passion_&_Python-7c3aed?style=flat-square)
-![Powered by](https://img.shields.io/badge/Powered_by-AI_&_Coffee-06b6d4?style=flat-square)
 
 </div>
